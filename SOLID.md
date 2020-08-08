@@ -1,6 +1,6 @@
 # **SOLID**
 
-SOLID goes by the term:
+SOLID is an acronym for:
 
 **[S]** ingle Responsibilty Principle <br />
 **[O]** pen Closed Principle <br />
